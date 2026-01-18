@@ -27,4 +27,5 @@ Grid Squared Award (100 grid cells) - QRZ - mixed mode, mixed band, 2026-01-18
 Grid Squared Award (100 grid cells) - QRZ - digital mode, mixed band, 2026-01-18
 30 years of QRZ (30 QSOs) - QRZ - mixed mode, 40M band, 2026-01-18
 30 years of QRZ (30 QSOs) - QRZ - digital mode, 40M band, 2026-01-18
-
+World Radio Friendship Award (25 QSOs) - QRZ - mixed mode, 17M band, 2026-01-18
+World Radio Friendship Award (25 QSOs) - QRZ - digital mode, 17M band, 2026-01-18
