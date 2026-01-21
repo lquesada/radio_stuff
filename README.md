@@ -41,3 +41,6 @@ World Radio Friendship Award (25 QSOs) - QRZ - digital mode, 17M band, 2026-01-1
 30 years of QRZ (30 QSOs) - QRZ - mixed mode, 17M band, 2026-01-19
 30 years of QRZ (30 QSOs) - QRZ - digital mode, 17M band, 2026-01-19
 Master of Radio Communication - Europe (66 entities in Europe) - QRZ - mixed mode, mixed band, 2026-01-20
+12 days of QRZ 2025 (12 days throughout winter) - QRZ - mixed mode, 40m band, 2026-01-21
+12 days of QRZ 2025 (12 days throughout winter) - QRZ - digital mode, 40m band, 2026-01-21
+Master of Radio Communication - Europe (66 entities in Europe) - QRZ - digital mode, mixed band, 2026-01-21
