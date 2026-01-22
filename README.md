@@ -52,3 +52,7 @@ Grid-EA (worked different EA grids) - ERC - 15 grids, mixed band, 2026-01-21
 WDAR-EU (worked Europe stations) - ERC - 100 stations, mixed band, 2026-01-21
 MERC (worked ERC members) - ERC - 50 stations, mixed band, 2026-01-21
 WGA (worked grid squares) - ERC - 100 grid squares, mixed band, 2026-01-21
+WDGI (worked Ireland) - ERC - 2 stations, mixed band, 2026-01-22
+WDGI (worked Ireland) - ERC - 2 stations, 17m band, 2026-01-22
+World Radio Friendship Award (25 QSOs) - QRZ - mixed mode, 30M band, 2026-01-22
+World Radio Friendship Award (25 QSOs) - QRZ - digital mode, 30M band, 2026-01-22
