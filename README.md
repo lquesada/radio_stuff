@@ -9,50 +9,75 @@ Farthest FT8 bidirectional confirmed QSO (QRP, 5W): 9972 km, 2026-01-02
 
 Awards:
 
-World Radio Friendship Award (25 QSOs) - QRZ - mixed mode, mixed band, 2026-01-04
-World Radio Friendship Award (25 QSOs) - QRZ - mixed mode, 15M band, 2026-01-04
-World Radio Friendship Award (25 QSOs) - QRZ - digital mode, mixed band, 2026-01-04
-World Radio Friendship Award (25 QSOs) - QRZ - digital mode, 15M band, 2026-01-04
-30 years of QRZ (30 QSOs) - QRZ - mixed mode, mixed band, 2026-01-04
-30 years of QRZ (30 QSOs) - QRZ - mixed mode, 15M band, 2026-01-04
-30 years of QRZ (30 QSOs) - QRZ - digital mode, mixed band, 2026-01-04
-30 years of QRZ (30 QSOs) - QRZ - digital mode, 15M band, 2026-01-04
-Grid-EA (worked different EA grid squares) - ERC - 5 grid squares, mixed band, 2026-01-09
-Grid-EA (worked different EA grid squares) - ERC - 5 grid squares, 15M band, 2026-01-09
-Grid-EA (worked different EA grid squares) - ERC - 10 grid squares, mixed band, 2026-01-09
-Grid-EA (worked different EA grid squares) - ERC - 10 grid squares, 15M band, 2026-01-09
-WDAR-EU (worked Europe stations) - ERC - 50 stations, mixed band, 2026-01-09
-12 days of QRZ 2025 (12 days throughout winter) - QRZ - mixed mode, mixed band, 2026-01-13
-12 days of QRZ 2025 (12 days throughout winter) - QRZ - digital mode, mixed band, 2026-01-13
-World Radio Friendship Award (25 QSOs) - QRZ - mixed mode, 40M band, 2026-01-16
-World Radio Friendship Award (25 QSOs) - QRZ - digital mode, 40M band, 2026-01-16
-Grid-DL (worked different DL grid squares) - ERC - 5 grid squares, mixed band, 2026-01-16
-Grid-DL (worked different DL grid squares) - ERC - 5 grid squares, 40M band, 2026-01-16
-WDAR-EU (worked Europe stations) - ERC - 50 stations, 15M band, 2026-01-16
-WDAR-HB (worked Swiss stations) - ERC - 5 stations, mixed band, 2026-01-17
-Grid Squared Award (100 grid squares) - QRZ - mixed mode, mixed band, 2026-01-18
-Grid Squared Award (100 grid squares) - QRZ - digital mode, mixed band, 2026-01-18
-30 years of QRZ (30 QSOs) - QRZ - mixed mode, 40M band, 2026-01-18
-30 years of QRZ (30 QSOs) - QRZ - digital mode, 40M band, 2026-01-18
-World Radio Friendship Award (25 QSOs) - QRZ - mixed mode, 17M band, 2026-01-18
-World Radio Friendship Award (25 QSOs) - QRZ - digital mode, 17M band, 2026-01-18
-12 days of QRZ 2025 (12 days throughout winter) - QRZ - mixed mode, 15m band, 2026-01-19
-12 days of QRZ 2025 (12 days throughout winter) - QRZ - digital mode, 15m band, 2026-01-19
-30 years of QRZ (30 QSOs) - QRZ - mixed mode, 17M band, 2026-01-19
-30 years of QRZ (30 QSOs) - QRZ - digital mode, 17M band, 2026-01-19
-Master of Radio Communication - Europe (66 entities in Europe) - QRZ - mixed mode, mixed band, 2026-01-20
-12 days of QRZ 2025 (12 days throughout winter) - QRZ - mixed mode, 40m band, 2026-01-21
-12 days of QRZ 2025 (12 days throughout winter) - QRZ - digital mode, 40m band, 2026-01-21
-Master of Radio Communication - Europe (66 entities in Europe) - QRZ - digital mode, mixed band, 2026-01-21
-WMD-EA BASIC (worked different EA grids) - YB6DXC - 25 grids, 2026-01-21
-Grid-DL (worked different DL grids) - ERC - 10 grids, mixed band, 2026-01-21
-Grid-EA (worked different EA grids) - ERC - 5 grids, 17M band, 2026-01-21
-WDAR-EU (worked Europe stations) - ERC - 50 stations, 40M band, 2026-01-21
-Grid-EA (worked different EA grids) - ERC - 15 grids, mixed band, 2026-01-21
-WDAR-EU (worked Europe stations) - ERC - 100 stations, mixed band, 2026-01-21
-MERC (worked ERC members) - ERC - 50 stations, mixed band, 2026-01-21
-WGA (worked grid squares) - ERC - 100 grid squares, mixed band, 2026-01-21
-WDGI (worked Ireland) - ERC - 2 stations, mixed band, 2026-01-22
-WDGI (worked Ireland) - ERC - 2 stations, 17m band, 2026-01-22
-World Radio Friendship Award (25 QSOs) - QRZ - mixed mode, 30M band, 2026-01-22
-World Radio Friendship Award (25 QSOs) - QRZ - digital mode, 30M band, 2026-01-22
+QRZ
+Master of Radio Communication - Europe (66 entities in Europe)
+mixed mode, mixed band, 2026-01-20
+digital mode, mixed band, 2026-01-21
+Grid Squared Award (100 grid squares)
+mixed mode, mixed band, 2026-01-18
+digital mode, mixed band, 2026-01-18
+World Radio Friendship Award (25 QSOs)
+mixed mode, mixed band, 2026-01-04
+mixed mode, 15m band, 2026-01-04
+digital mode, mixed band, 2026-01-04
+digital mode, 15m band, 2026-01-04
+mixed mode, 40m band, 2026-01-16
+digital mode, 40m band, 2026-01-16
+mixed mode, 17m band, 2026-01-18
+digital mode, 17m band, 2026-01-18
+mixed mode, 30m band, 2026-01-22
+digital mode, 30m band, 2026-01-22
+30 years of QRZ (30 QSOs)
+mixed mode, mixed band, 2026-01-04
+mixed mode, 15m band, 2026-01-04
+digital mode, mixed band, 2026-01-04
+digital mode, 15m band, 2026-01-04
+mixed mode, 40m band, 2026-01-18
+digital mode, 40m band, 2026-01-18
+mixed mode, 17m band, 2026-01-19
+digital mode, 17m band, 2026-01-19
+12 days of QRZ 2025 (12 days throughout winter)
+mixed mode, mixed band, 2026-01-13
+digital mode, mixed band, 2026-01-13
+mixed mode, 15m band, 2026-01-19
+digital mode, 15m band, 2026-01-19
+mixed mode, 40m band, 2026-01-21
+digital mode, 40m band, 2026-01-21
+ERC
+Grid-EA (worked different EA grid squares)
+5 grid squares, mixed band, 2026-01-09
+5 grid squares, 15m band, 2026-01-09
+10 grid squares, mixed band, 2026-01-09
+10 grid squares, 15m band, 2026-01-09
+5 grids, 17m band, 2026-01-21
+15 grids, mixed band, 2026-01-21
+20 grids, mixed band, 2026-01-25
+15 grids, 15m band, 2026-01-25
+WDAR-EU (worked stations in Europe)
+50 stations, mixed band, 2026-01-09
+50 stations, 15m band, 2026-01-16
+50 stations, 40m band, 2026-01-21
+100 stations, mixed band, 2026-01-21
+100 stations, 15m band, 2026-01-25
+50 stations, 17m band, 2026-01-25
+Grid-DL (worked different DL grid squares)
+5 grid squares, mixed band, 2026-01-16
+5 grid squares, 40m band, 2026-01-16
+10 grids, mixed band, 2026-01-21
+10 grids, 40m band, 2026-01-25
+WDAR-HB (worked Swiss stations)
+5 stations, mixed band, 2026-01-17
+MERC (worked ERC members)
+50 stations, mixed band, 2026-01-21
+WGA (worked grid squares)
+100 grid squares, mixed band, 2026-01-21
+WDGI (worked Irish stations)
+2 stations, mixed band, 2026-01-22
+2 stations, 17m band, 2026-01-22
+WDAR-SV (worked Greek stations)
+10 stations, mixed band, 2026-01-25
+WDAR-9A (worked Croatian stations)
+5 stations, mixed band, 2026-01-25
+YB6DXC
+WMD-EA BASIC (worked different EA grids)
+25 grids, 2026-01-21
