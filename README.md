@@ -92,3 +92,22 @@ WROSA (contacted Romanian stations)
 10 stations, 2026-01-21
 WR1A (Region 1 stations)
 Bronze - 30 stations, 2026-01-21
+AGB
+Baltic Sea JT modes III (digital contacts with stations in the Baltic Sea)
+mixed mode, 2026-01-26
+FT8, 2026-01-26
+Europe  JT modes V (contacted European stations)
+mixed mode, 2026-01-09
+FT8, 2026-01-09
+Europe  JT modes IV (contacted European stations)
+FT8, 2026-01-09
+FT8 Basic (contacted using FT8)
+mixed band, 2026-01-03
+15m band, 2026-01-03
+Zone 14 JT modes III (contacted stations in zone 14)
+mixed mode, 2026-01-09
+FT8, 2026-01-09
+Locators JT modes (contacting different locators)
+mixed mode, mixed band, 25 locators, 2026-01-09
+FT8 mode, mixed band, 25 locators, 2026-01-09
+mixed mode, 15m band, 25 locators, 2026-01-09
