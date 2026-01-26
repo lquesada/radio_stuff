@@ -81,3 +81,14 @@ WDAR-9A (worked Croatian stations)
 YB6DXC
 WMD-EA BASIC (worked different EA grids)
 25 grids, 2026-01-21
+FT8DMC
+WPX (worked prefix award)
+100 prefixes, 2026-01-24
+EUSA (contacted European stations)
+100 stations, 2026-01-20
+WAMA (contacted FT8DMC members)
+100 members, 2026-01-25
+WROSA (contacted Romanian stations)
+10 stations, 2026-01-21
+WR1A (Region 1 stations)
+Bronze - 30 stations, 2026-01-21
